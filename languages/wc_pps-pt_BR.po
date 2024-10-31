@@ -1,0 +1,92 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Per Postcode Shipping\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: Fri Mar 25 2016 14:37:30 GMT-0300 (Hora oficial do "
+"Brasil)\n"
+"PO-Revision-Date: Fri Mar 25 2016 14:42:06 GMT-0300 (Hora oficial do Brasil)\n"
+"Last-Translator: Elias Júnior <contato@eliasjrweb.com>\n"
+"Language-Team: \n"
+"Language: Portuguese (Brazil)\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"X-Loco-Target-Locale: pt_BR"
+
+#. Name of the plugin
+msgid "Per Postcode Shipping"
+msgstr "Frete por CEP"
+
+#. Description of the plugin
+msgid ""
+"This plugin allows you to set a flat shipping rate per postcode on "
+"WooCommerce."
+msgstr "Este plugin permite que selecione um método de frete por CEP no WooCommerce."
+
+#. Author of the plugin
+msgid "Elias Júnior"
+msgstr "Elias Júnior"
+
+#: includes/class-wc-per-postcode-shipping-method.php:21
+msgid "Allows you to set a flat shipping rate per postcode on WooCommerce."
+msgstr "Permite que selecione um método de frete por CEP no WooCommerce."
+
+#: includes/class-wc-per-postcode-shipping-method.php:43
+msgid "Enable/Disable"
+msgstr "Ativar/Desativar"
+
+#: includes/class-wc-per-postcode-shipping-method.php:45
+msgid "Enable this shipping method"
+msgstr "Ativar este método de envio"
+
+#: includes/class-wc-per-postcode-shipping-method.php:49
+msgid "Method Title"
+msgstr "Título do método"
+
+#: includes/class-wc-per-postcode-shipping-method.php:51
+msgid "This controls the title which the user sees during checkout."
+msgstr "Controla o título que o usuário irá visualizar durante o checkout."
+
+#: includes/class-wc-per-postcode-shipping-method.php:52
+msgid "Postcode Shipping"
+msgstr "Frete por CEP"
+
+#: includes/class-wc-per-postcode-shipping-method.php:55
+msgid "Per Postcode Settings"
+msgstr "Configurações do frete por CEP"
+
+#: includes/class-wc-per-postcode-shipping-method.php:59
+msgid "Rules"
+msgstr "Regras"
+
+#: includes/class-wc-per-postcode-shipping-method.php:61
+msgid ""
+"One rule per line. <br>E.g. 000000-111111|222222-333333:50. <br>Separate "
+"postcodes rules by | and the price by : <br>The range separeted by - is the "
+"first included and second excluded."
+msgstr ""
+"Uma regra por linha. <br>Ex.: 000000-111111|222222-333333:50. <br>Separe as "
+"regras do CEP por | e o preço por : <br>A variação separada por - sendo o "
+"primeiro incluído e o segundo excluído."
+
+#: includes/class-wc-per-postcode-shipping-method.php:64
+msgid "Free shipping"
+msgstr "Frete grátis"
+
+#: includes/class-wc-per-postcode-shipping-method.php:66
+msgid ""
+"Allow free shipping when value is more than this setting. Set it empty for "
+"no free shipping."
+msgstr ""
+"Permite frete grátis quando o valor for maior ou igual a esta configuração. "
+"Deixe vazio para não possuir frete grátis."
